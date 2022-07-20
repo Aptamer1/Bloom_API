@@ -1,4 +1,4 @@
-# Bloom_React_App
+# Hugging Face Bloom React API Call
 
 Send an api request to the https://huggingface.co/docs/transformers/model_doc/bloom
 
