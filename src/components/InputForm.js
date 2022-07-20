@@ -17,7 +17,7 @@ const InputForm = () => {
       useEffect(() => {
         const fetchResponse = async () => {
             const url = "https://api-inference.huggingface.co/models/bigscience/bloom";
-            const token = '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';
+            const token = 'ENTER TOKEN HERE';
             const data = {inputs: inputToCheck};
           const response = 
                 await fetch(url, 
